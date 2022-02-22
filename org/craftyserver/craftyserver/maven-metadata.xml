@@ -4,8 +4,8 @@
   <artifactId>craftyserver</artifactId>
   <versioning>
     <versions>
-      <version>0.0.1-SNAPSHOT</version>
+      <version>0.0.1-LIBONLY-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20220220182601</lastUpdated>
+    <lastUpdated>20220222202322</lastUpdated>
   </versioning>
 </metadata>
